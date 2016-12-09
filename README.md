@@ -1,1 +1,1 @@
-# CuriousFroggy is a video game made with C and Allegro library
+# Curious Froggy is a video game made with C and Allegro library
